@@ -1,0 +1,5 @@
+Admin_111 администратор женщина 57aec9e1fa399eac13b7602cc919ce86a45c117d83649234d986d95a1e5c8117 xT0FiDT1FjLnONkk 0 Андреева Ольга Анатольевна 12 5 1962--- --- 0 0 0
+Nachalnic начальник мужчина 52a3a9deb91aa495fea75ab35fae248f407c08bf5d9078f2d54b9e05ec768cd6 E6bmgIzP48wWgtzm 1 Куликов Максим Александрович 18 3 2004--- --- 20 9 2000
+admin_admin администратор --- 7549d6ac034b5ea905cfc3cefbec1916fcdaeec9028971ac49b86a9533301cd5 3NAaGFZmOZLEQjh4 1 Каменчук Елизавета Денисовна 0 0 0администратор --- 25 12 2000
+Sotrudnic сотрудник женщина 4ee169c526e6c08f527e86630c1cbe0bb57f8c1bebccc12d08fda28c99d1b007 nk4Erdy72JuWhW7i 1 Пархоменко Дарья Александровна 22 4 1983--- --- 9 6 2001
+Sotrudnic1 сотрудник мужчина fbcf4e6a8e271b3deb35350803c1f9a9d2cbc9e0e32e94591b28fefe8a623b4c NRXiBQzVAog58KaX 0 Кузнецов Андрей Анатольевич 25 10 1962--- --- 12 5 2015

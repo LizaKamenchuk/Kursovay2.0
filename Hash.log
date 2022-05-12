@@ -1,0 +1,9 @@
+﻿  sha1.cpp
+D:\БГУИР\10 C++\Hash\Hash\sha1.cpp(56,15): warning C4309: аргумент: усечение константного значения
+D:\БГУИР\10 C++\Hash\Hash\sha1.cpp(76,29): warning C4244: =: преобразование "SHA1::uint64" в "SHA1::uint32", возможна потеря данных
+D:\БГУИР\10 C++\Hash\Hash\sha1.cpp(244,29): warning C4244: аргумент: преобразование "std::streamsize" в "const unsigned int", возможна потеря данных
+  sha256.cpp
+  Source.cpp
+D:\БГУИР\10 C++\Hash\Hash\Source.cpp(45,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Hash.vcxproj -> D:\БГУИР\10 C++\Hash\Debug\Hash.exe
